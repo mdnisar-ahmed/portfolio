@@ -74,7 +74,7 @@ export default function ContactSection() {
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gray-800 text-purple-400 p-3 rounded-full hover:bg-purple-600 hover:text-white transition-colors neon-border"
-                  whileHover={{ scale: 1.1, rotate: 10 }}
+                  whileHover={{ scale: 1.1, rotate: 5 }}
                 >
                   <FaLinkedin size={24} />
                 </motion.a>
