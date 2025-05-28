@@ -54,7 +54,7 @@ export default function ContactSection() {
                 </motion.div>
                 <motion.div className="flex items-center" whileHover={{ x: 5 }}>
                   <FaMapMarkerAlt className="mr-3 text-purple-400 icon-glow" size={20} />
-                  <span>Omaha, NE USA</span>
+                  <span>United States of America</span>
                 </motion.div>
               </div>
 
