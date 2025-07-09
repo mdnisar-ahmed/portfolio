@@ -50,7 +50,7 @@ export default function ContactSection() {
               <div className="space-y-4">
                 <motion.div className="flex items-center" whileHover={{ x: 5 }}>
                   <FaEnvelope className="mr-3 text-purple-400 icon-glow" size={20} />
-                  <span>mnisarahmed356@gmail.com</span>
+                  <span>mnisarahmed937@gmail.com</span>
                 </motion.div>
                 <motion.div className="flex items-center" whileHover={{ x: 5 }}>
                   <FaMapMarkerAlt className="mr-3 text-purple-400 icon-glow" size={20} />
