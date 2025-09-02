@@ -12,7 +12,31 @@ import {
 
 const experienceData = [
   {
-    year: "Present",
+    year: "Mar'25-Present",
+    title: "Full-Stack Developer",
+    subtitle: "Oakland Community College",
+    description:
+      "Contributed to higher education systems with a focus on Ellucian technologies and database migration.",
+    skills: [
+      "ASP.NET Core",
+      "C#",
+      "React",
+      "PostgreSQL",
+      "Ellucian Ethos API",
+      "Ellucian User Interface",
+      "SQL Server",
+      "Visual Studio",
+    ],
+    responsibilities: [
+      "Developed and maintained full-stack web applications using .NET Core, C#, and React",
+      "Integrated Ellucian Ethos API for seamless data exchange across institutional systems",
+      "Migrated databases from SQL Server to PostgreSQL ensuring accuracy and data integrity",
+      "Collaborated with teams to expose institutional data for reporting and analytics",
+      "Wrote optimized SQL queries and procedures to improve system performance",
+    ],
+  },
+  {
+    year: "June'24-Feb'25",
     title: "Web Developer",
     subtitle: "Humane Action Pennsylvania",
     description: "Developing modern web applications.",
